@@ -47,7 +47,6 @@
     <Compile Include="IServer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProxyServer.cs" />
-    <Compile Include="WinFormServer.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
